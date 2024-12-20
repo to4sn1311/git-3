@@ -1,1 +1,2 @@
 Tai hien conflict Git
+branch2: day la branch2
