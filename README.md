@@ -21,6 +21,8 @@
 ## Release Branch
 ![image](https://github.com/user-attachments/assets/29b91340-7880-4bbe-be16-4402cfe35338)
 
+##Merge Request in Server Github
+![image](https://github.com/user-attachments/assets/8ff8b914-77eb-4518-82c6-eea8957b940b)
 
 ## Tái hiện conflict
 git checkout -b branch1 </br>
