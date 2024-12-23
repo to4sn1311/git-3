@@ -1,2 +1,0 @@
-Tai hien conflict Git
-branch1: day la branch1
