@@ -1,3 +1,6 @@
+## Getting Started
+`git clone https://github.com/to4sn1311/git-3.git`
+
 ## Main Branch
 ![image](https://github.com/user-attachments/assets/8a978d1f-88b1-492a-aaee-1ebfd3eccf92)
 
